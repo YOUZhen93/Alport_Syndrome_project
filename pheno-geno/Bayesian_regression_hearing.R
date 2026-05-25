@@ -98,7 +98,6 @@ locale:
 [1] LC_COLLATE=English_Canada.utf8  LC_CTYPE=English_Canada.utf8    LC_MONETARY=English_Canada.utf8
 [4] LC_NUMERIC=C                    LC_TIME=English_Canada.utf8    
 
-
 attached base packages:
 [1] stats     graphics  grDevices utils     datasets  methods   base     
 
@@ -107,4 +106,33 @@ other attached packages:
  [6] readr_2.1.5        tidyr_1.3.0        tibble_3.2.1       ggplot2_3.5.1      tidyverse_2.0.0   
 [11] tidybayes_3.0.6    ggdist_3.3.2       cowplot_1.1.3      ggsci_3.2.0        bayesrules_0.0.2  
 [16] brms_2.21.0        Rcpp_1.0.11        rstan_2.32.6       StanHeaders_2.32.6
+
+loaded via a namespace (and not attached):
+  [1] gridExtra_2.3        inline_0.3.19        rlang_1.1.2          magrittr_2.0.3      
+  [5] snakecase_0.11.1     matrixStats_1.2.0    e1071_1.7-14         compiler_4.3.1      
+  [9] loo_2.8.0            vctrs_0.6.5          reshape2_1.4.4       arrayhelpers_1.1-0  
+ [13] pkgconfig_2.0.3      fastmap_1.2.0        backports_1.4.1      labeling_0.4.3      
+ [17] utf8_1.2.4           threejs_0.3.3        promises_1.2.1       rmarkdown_2.27      
+ [21] tzdb_0.4.0           markdown_1.13        nloptr_2.0.3         xfun_0.46           
+ [25] jsonlite_1.8.8       later_1.3.2          broom_1.0.6          parallel_4.3.1      
+ [29] R6_2.5.1             dygraphs_1.1.1.6     stringi_1.8.3        car_3.1-2           
+ [33] boot_1.3-30          knitr_1.48           zoo_1.8-12           base64enc_0.1-3     
+ [37] bayesplot_1.11.1     httpuv_1.6.13        Matrix_1.6-4         splines_4.3.1       
+ [41] igraph_1.6.0         timechange_0.2.0     tidyselect_1.2.1     yaml_2.3.10         
+ [45] rstudioapi_0.16.0    abind_1.4-5          codetools_0.2-20     miniUI_0.1.1.1      
+ [49] pkgbuild_1.4.4       lattice_0.22-5       plyr_1.8.9           withr_3.0.1         
+ [53] shiny_1.9.1          bridgesampling_1.1-2 groupdata2_2.0.3     posterior_1.6.0     
+ [57] coda_0.19-4.1        evaluate_0.24.0      survival_3.5-7       proxy_0.4-27        
+ [61] RcppParallel_5.1.7   xts_0.13.2           pillar_1.9.0         carData_3.0-5       
+ [65] tensorA_0.36.2.1     checkmate_2.3.1      DT_0.33              stats4_4.3.1        
+ [69] shinyjs_2.1.0        distributional_0.4.0 generics_0.1.3       hms_1.1.3           
+ [73] rstantools_2.4.0     munsell_0.5.1        scales_1.3.0         minqa_1.2.6         
+ [77] gtools_3.9.5         xtable_1.8-4         class_7.3-22         glue_1.6.2          
+ [81] janitor_2.2.0        tools_4.3.1          shinystan_2.6.0      lme4_1.1-35.1       
+ [85] colourpicker_1.3.0   mvtnorm_1.2-4        grid_4.3.1           QuickJSR_1.1.3      
+ [89] crosstalk_1.2.1      colorspace_2.1-0     patchwork_1.2.0      nlme_3.1-164        
+ [93] cli_3.6.2            svUnit_1.0.6         fansi_1.0.6          Brobdingnag_1.2-9   
+ [97] gtable_0.3.5         rstatix_0.7.2        digest_0.6.33        farver_2.1.2        
+[101] htmlwidgets_1.6.4    htmltools_0.5.9      lifecycle_1.0.4      mime_0.12           
+[105] rstanarm_2.32.1      shinythemes_1.2.0    MASS_7.3-60         
 '''
