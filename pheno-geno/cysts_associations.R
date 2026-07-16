@@ -1,4 +1,4 @@
-# Glm model for genotype association analysis with renal cysts phenotype (Fig. 6c)
+# Glm model for genotype association analysis with renal cysts phenotype
 # Chinese AS cohort
 # Author: Zhen Y
 
