@@ -1,4 +1,5 @@
-# Bayesian regression model to estimate phenotypic effects of different genotypes on hearing loss;
+# Bayesian regression model to estimate phenotypic effects of different genotypes on hearing loss; 
+# ESKD and ocular leisons were used the same method; 
 # in Chinese AS cohort
 # Author: Zhen Y
 
@@ -84,7 +85,7 @@ axis(side = 1, at = 1:8, labels = rownames(posterior_summary(model))[5:12], las=
 
 
 
-# eyesight is applied as the same method
+
 # sessionInfo:
 '''
 R version 4.3.1 (2023-06-16 ucrt)
